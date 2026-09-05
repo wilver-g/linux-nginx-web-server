@@ -238,6 +238,7 @@ From a client browser, access:
     https://wilvergeorpe.is-a.dev
 
 The browser should establish a TLS connection and display the website without a certificate warning.
+![Website accessible over HTTPS](website.png)
 
 ---
 
