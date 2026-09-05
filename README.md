@@ -6,6 +6,8 @@ The project uses an **Ubuntu Linux virtual machine running on VMware Workstation
 
 The primary focus of this project is understanding the **Linux and networking infrastructure behind a publicly accessible web server**.
 
+![Website accessible over HTTPS](docs/website.png)
+
 ---
 
 ## 📌 Project Overview
