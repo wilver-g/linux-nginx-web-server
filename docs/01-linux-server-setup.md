@@ -4,6 +4,8 @@ This document records the setup of the Ubuntu Linux virtual machine used as the 
 
 The Ubuntu server runs inside VMware Workstation on the Windows host and is used to host the web portfolio through Nginx.
 
+![Ubuntu](ubuntu.png)
+
 ---
 
 ## 1. Server Environment
@@ -126,6 +128,7 @@ DNS connectivity was also tested by using a hostname:
     ping google.com
 
 This helped verify both external network connectivity and DNS resolution.
+![Connectivity](ping.png)
 
 ---
 
@@ -142,6 +145,8 @@ For example, its status was checked using:
     sudo systemctl status nginx
 
 The Nginx service was also restarted or reloaded when configuration changes were made.
+
+![NGINX](nginx.png)
 
 ---
 
